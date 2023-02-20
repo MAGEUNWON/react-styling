@@ -1,8 +1,9 @@
 // import SassComponent from './SassComponent';
-import CSSModule from './CSSModule';
+// import CSSModule from './CSSModule';
+import StyledComponent from './StyledComponents';
 
 const App = () => {
-  return <CSSModule />
+  return <StyledComponent />
 }
 
 export default App;
